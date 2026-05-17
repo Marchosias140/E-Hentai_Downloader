@@ -13,11 +13,14 @@ This app is better run inside a Python environment, for better dependency manage
 Run
 
 
-´´´python3 E_Hentai_Downloader.py´´´
+```python3 E_Hentai_Downloader.py```
 
 
 
 Follow the instructions on the terminal.
+
+
+
 
 
 
@@ -26,7 +29,14 @@ It is strongly adviced to only input links from the same gallery, unless you are
 
 
 
+
+
 After pasting the links, the app will download the images one by one by creating a temporal web browser instance that will close itself after the downloading process completes.
+
+
+
+
+
 
 
 The downloaded images will be inside the Scrapped_Images folder located in the same folder where the app was executed.
@@ -51,6 +61,10 @@ requests
 
 bs4
 
+
+
+
+Have fun!
 
 
 
