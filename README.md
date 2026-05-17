@@ -45,11 +45,11 @@ The app cleans itself from the pasted links by creating new link processor files
 
 The dependencies needed are:
 
-beautifulsoup4
-
 selenium
 
 requests
+
+bs4
 
 
 
