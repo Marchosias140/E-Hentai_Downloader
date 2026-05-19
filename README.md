@@ -55,11 +55,11 @@ The app cleans itself from the pasted links by creating new link processor files
 
 The dependencies needed are:
 
--selenium
+- selenium
 
--requests
+- requests
 
--bs4
+- bs4
 
 
 
