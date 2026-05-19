@@ -3,6 +3,26 @@ A python app that downloads galleries from e-hentai.org
 
 
 
+Also, check out the new version
+
+
+
+
+https://github.com/Marchosias140/E-Hentai_Downloader_Tankoboner_Edition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Instructions
 
