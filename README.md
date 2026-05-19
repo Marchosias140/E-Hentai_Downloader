@@ -39,12 +39,12 @@ After pasting the links, the app will download the images one by one by creating
 
 
 
-The downloaded images will be inside the Scrapped_Images folder located in the same folder where the app was executed.
+The downloaded images will be inside the Scraped_Images folder located in the same folder where the app was executed.
 
 
 
 
-It is strongly adviced to immediatly change the name of the Scrapped_Images folder in order to avoid having the images overwritten if another gallery is downloaded right after, thus another Scrapped_Images folder will be created and your previous files will be intact.
+It is strongly adviced to immediatly change the name of the Scrapped_Images folder in order to avoid having the images overwritten if another gallery is downloaded right after, thus another Scraped_Images folder will be created and your previous files will be intact.
 
 
 
