@@ -88,16 +88,6 @@ Have fun!
 
 
 
-# If this App was useful, consider donating Solana
-
-
-
-
-
-9Qp3FrwKU84aenPeRt9tGqNCjSQuEc4GcBm2Eqzxbeo5
-
-
-
 
 
 
